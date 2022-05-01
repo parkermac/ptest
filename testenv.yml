@@ -1,0 +1,8 @@
+name: testenv
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - pip
+  - pip:
+    - -e my_code

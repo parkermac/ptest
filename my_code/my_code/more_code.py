@@ -1,0 +1,2 @@
+def whatever():
+    print('whatever')
