@@ -2,7 +2,7 @@
 
 ### This is code to explore conda environments and making my own packages.
 
-### It follows this awesome [where_to_put_your_code](https://pythonchb.github.io/PythonTopics/where_to_put_your_code.html) that Rob Hetland pointed me to. Thanks!
+### It follows this awesome [where_to_put_your_code](https://pythonchb.github.io/PythonTopics/where_to_put_your_code.html) that Rob Hetland pointed me to. Thanks!!
 
 #### I made testenv.yml with minimal packages, and then working from the command line in ptest I ran
 
